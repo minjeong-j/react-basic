@@ -57,7 +57,7 @@ function App() {
 
       <div>
         <br/>
-        *숙제
+        *숙제*
         <div>
           이 값을<input></input>
         </div>
